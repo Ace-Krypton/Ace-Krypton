@@ -1,10 +1,24 @@
 ### Hi there 👋
-
+<!--
 ### Welcome to my GitHub
 
 - 🔭 I’m currently working on Web-Fuzzer
 - 🌱 I’m currently focused on low-level languages
 - 📫 How to reach me: ramizna@code.edu.az
+-->
+```clojure
+((defn func [] (println (clojure.string/join "\u000a" ["|_|O|_|" "|_|_|O|" "|O|O|O|"]))))
+```
+
+```python
+print('👨🏻‍💻 by day && night 👺')
+```
+
+```prolog
+job_title(X) :-
+    member(X, ['Software Engineer', 'Security Researcher']),
+    \+ member(X, ['Cyberflow']).
+```
 
 [![Krypton's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ace-Krypton&count_private=true&include_all_commits=true&hide=contribs&show_icons=true)](https://github.com/Ace-Krypton)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ace-Krypton&exclude_repo=Ace-Krypton.github.io,free-for-dev&layout=compact&langs_count=8)](https://github.com/Ace-Krypton)
