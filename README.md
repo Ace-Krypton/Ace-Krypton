@@ -10,4 +10,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ace-Krypton&exclude_repo=Ace-Krypton.github.io,free-for-dev&layout=compact&langs_count=8)](https://github.com/Ace-Krypton)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ace-Krypton&" alt="Ace-Krypton" /></p> 
 [![Viewed](https://komarev.com/ghpvc/?username=Ace-Krypton)](https://github.com/Ace-Krypton)
+[![](https://komarev.com/ghpvc/?username=0xflotus&color=green)](https://github.com/0xflotus)
 
