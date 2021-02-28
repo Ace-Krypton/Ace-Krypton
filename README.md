@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub
 
-- 🔭 I’m currently working on Fuzzer
+- 🔭 I’m currently working on Web-Fuzzer
 - 🌱 I’m currently focused on low-level languages
 - 📫 How to reach me: ramizna@code.edu.az
 
