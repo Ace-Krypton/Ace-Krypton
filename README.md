@@ -11,4 +11,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ace-Krypton&" alt="Ace-Krypton" /></p> 
 ![](https://komarev.com/ghpvc/?username=Ace-Krypton&label=Profile+views)
 ![](https://hit.yhype.me/github/profile?user_id=1849174)
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/Ace-Krypton/github-profile-views-counter
+
+![](https://hit.yhype.me/github/profile?user_id=1849174)
+
 
