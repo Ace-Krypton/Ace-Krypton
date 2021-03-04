@@ -11,7 +11,7 @@
 ```
 
 ```python
-print('👨🏻‍💻 by day && night 👺')
+print('👨🏻‍💻 by day && night 🎮')
 ```
 
 ```prolog
